@@ -1,0 +1,22 @@
+[  0.020] [ca] addstore rc 0
+[  0.025] [pac] listening 8444
+[  0.025] [proxy] old {'ProxyEnable': 0, 'ProxyServer': None, 'ProxyOverride': '*.local', 'AutoConfigURL': None}
+[  0.035] [proxy] listening 8443
+[  0.038] [app] pid 20512
+[  0.039] [pin] module base 0x140000000 size 0x133b000
+[  0.167] [pin] patched new addr=0x14010c420 type=0x20000 prot=0x4 (static)
+[  0.167] [pin] patched new addr=0x14010c440 type=0x20000 prot=0x4 (static)
+[  2.004] [reader] EOF
+[  2.009] [wait] first trigger None at -1
+[  2.010] [wait] result trigger None at -1
+[  3.014] [pin] patcher done; total writes=2 unique=2 reverts=0
+[  3.015] [app] poll 3735929054
+[  3.099] [proxy] restored {'ProxyEnable': 0, 'ProxyServer': None, 'ProxyOverride': '*.local', 'AutoConfigURL': None}
+[  3.099] === STATUS: timeout ===
+[  3.099] === REQUESTS ===
+[  3.099] === PINS ===
+[  3.099]   0x14010c420 first=0.167 type=0x20000 prot=0x4 tag=static
+[  3.099]   0x14010c440 first=0.167 type=0x20000 prot=0x4 tag=static
+[  3.099]   reverts: []
+[  3.099] === TAIL ===
+[  3.099] 

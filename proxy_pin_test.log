@@ -1,0 +1,181 @@
+[ca] addstore rc 0
+[proxy] old {'ProxyEnable': 0, 'ProxyServer': None, 'ProxyOverride': '*.local'}
+[proxy] listening 8443
+[app] pid 16724
+[connect] CONNECT vanishtrace.authvt.workers.dev:443 HTTP/1.1
+[request] GET /api/hash body= 
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] GET http://firefox-portal-detection.com/generate_204 HTTP/1.1
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT cdn.discordapp.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[patcher] [('opened', 16724), ('base', '0x7ff981230000', '0x1f8000'), ('patched_total', 0)]
+[app] alive -> sending 4
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[conn err] SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)')
+[connect] GET http://firefox-portal-detection.com/generate_204 HTTP/1.1
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[connect] CONNECT discord.com:443 HTTP/1.1
+[conn err] SSLError(1, '[SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1082)')
+[app] poll 1
+[proxy] restored {'ProxyEnable': 0, 'ProxyServer': None, 'ProxyOverride': '*.local'}
+=== TAIL ===
+
+
+
+
+
+
+
+
+
+ ▄█▄   ▄█▄         ▄██▄   ▄██▄▀█▀█▄▄      ▄██▄   ▄██▄ ▄██▄   ▄██▄   ▄██▄    ▄▄█▄▀▄██▄▀ ▀█▄▄    ▄██▄▀ ▀█▄▄           ▄██▄   ▄██▄▀ ▀█▄▄    ▄██▄▀ ▀█▄▄  
+▐███▌ ▐███▌      ▄█████▌ ▐████▌  ▀███▄   ▐████▌ ▐████▀▀███▌ ▐████▌ ▐████▌ ▄███▀ ▐████▌  ▀███▄ ▐████▌  ▀███▄       ▄█████▌ ▐████▌  ▀███▄ ▐████▌  ▀███▄
+▄█▄▀   ▀▄█▄      ▄▄▀███▌  ▀███▌    ███▌   ▀██▀  ████▀ ▀███   ▀███▌▄▄▀███▌ ▐███▌  ▀███▌  ▐███▌  ▀███▌  ▄███▌       ▄▄▀███▌  ▀███▌    ▀▀   ▀███▌█▄▄ ▀▀ 
+██▄▌   ▐▄██    ▄██▄▌▐███   ▐███    ▐███     ▄ ▄ ▐█████▄▄▀     ▐███▐▄█▐███  ▀█▀    ▐███   ▀█▀    ▐███▐█▀██▀      ▄██▄▌▐███   ▐███          ▐███▐█▀██▄ 
+▐███   ███▌  ▄████▀ ████   ████    ▐███▌    ▄██  ▀▀██▀ ▀█▄    ████▐▐▌████         ████          ████▀▀▀▄▄█▄   ▄████▀ ████   ████          ████▀▀▀▀   
+ ███▌ ▐███  ▐███▀▄▄▌████   ████    ████▌   ████  ▄▄▄  ▀ ▐█▌   ████ ▀ ████         ████          ████  ▐▄███▌ ▐███▀▄▄▌████   ████          ████       
+ ▐███▄███▌  ███▌▀██▀▐███   ▐███    ████    ▐███ ▐████▄▄▄██▌   ▐███   ▐███         ▐███          ▐███   ████  ███▌▀██▀▐███   ▐███   ▄██▄   ▐███   ▄██▄
+  ▀█████▀   ▐██▌    ▐██▌   ▐██▌    ▐██▌    ▐██▌  ▀███████▀    ▐██▌   ▐██▌         ▐██▌          ▐██▌   ▐██▌  ▐██▌    ▐██▌   ▐██▀▄▄███▀    ▐██▀▄▄███▀ 
+    ▀▀▀      ▀▀      ▀▀     ▀▀      ▀▀      ▀▀     ▀▀▀▀▀       ▀▀     ▀▀           ▀▀            ▀▀     ▀▀    ▀▀      ▀▀     ▀ ▀▀▀▀        ▀ ▀▀▀▀    
+
+
+                                 Username:                                  License key: 
+=== REQUESTS ===
+('GET', '/api/hash', {'sha256': None})
